@@ -64,7 +64,3 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 ## ⭐ Acknowledgments
 - Inspired by advancements in **financial machine learning** and **AI-driven forecasting**.
 
----
-
-> If you like this project, don't forget to **star** ⭐ the repository!
-
