@@ -58,7 +58,7 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## 📬 Contact
 - **Name:** Varunkumar Dadaji Sonawane  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/varunkumar-sonawane/)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/varun-sonawane/)  
 - **Email:** varunsonawane@example.com  
 
 ## ⭐ Acknowledgments
