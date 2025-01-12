@@ -21,26 +21,3 @@ Final_report/
 4. **Performance Evaluation:** Comparison of model performance using metrics like RMSE and MAE.
 5. **Final Summary:** Key findings, results, and proposed future work.
 6. **Visualizations:** Relevant plots and graphs supporting the analysis.
-
-## 📈 Key Highlights
-- **Best Model:** GRU with 67% accuracy in stock price prediction.
-- **Data Sources:** Historical stock market data processed and visualized.
-- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow.
-
-## 🚀 Future Enhancements
-- **Hyperparameter Tuning:** To improve model accuracy.
-- **Deployment:** Integration with AWS for real-time predictions.
-- **Data Expansion:** Incorporating more financial indicators and news sentiment analysis.
-
-## 🤝 Contribution
-Contributions and feedback are welcome! Feel free to suggest improvements or enhancements.
-
-## 📬 Contact
-- **Author:** Varunkumar Dadaji Sonawane  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/varunkumar-sonawane/)  
-- **Email:** varunsonawane@example.com  
-
----
-
-> If you found this project insightful, consider giving it a ⭐ on GitHub!
-
