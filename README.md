@@ -1,4 +1,3 @@
-
 # 📈 Stock Market Prediction
 
 This project focuses on predicting stock market trends using various machine learning and deep learning models. The objective is to forecast stock prices more accurately by leveraging historical data and advanced algorithms.
